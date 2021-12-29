@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "376bb393-dec7-45a8-9cfe-70c0f0c93709": {
+      "ProjectGuid": "376bb393-dec7-45a8-9cfe-70c0f0c93709",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "1d036296-dbe7-46bd-a79c-08a53cb02385": {
+      "ProjectGuid": "1d036296-dbe7-46bd-a79c-08a53cb02385",
+      "DisplayName": "sorteamentos",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "a66e9b9a-9e6b-463a-960a-ab900432f0ef": {
+      "ProjectGuid": "a66e9b9a-9e6b-463a-960a-ab900432f0ef",
+      "DisplayName": "Sorteamentos",
+      "ColorIndex": 2
+    },
+    "1d96e1dd-9321-4c90-8ad0-69e3e4f27ca1": {
+      "ProjectGuid": "1d96e1dd-9321-4c90-8ad0-69e3e4f27ca1",
+      "DisplayName": "Business",
+      "ColorIndex": 3
+    },
+    "8cab0660-602c-43ab-8a4b-2adf8a4df379": {
+      "ProjectGuid": "8cab0660-602c-43ab-8a4b-2adf8a4df379",
+      "DisplayName": "Builder",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

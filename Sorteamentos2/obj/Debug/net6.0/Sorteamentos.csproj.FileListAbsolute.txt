@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\bin\Debug\net6.0\Sorteamentos.deps.json
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\bin\Debug\net6.0\Sorteamentos.dll
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\bin\Debug\net6.0\ref\Sorteamentos.dll
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\bin\Debug\net6.0\Sorteamentos.pdb
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\obj\Debug\net6.0\Sorteamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\obj\Debug\net6.0\Sorteamentos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\obj\Debug\net6.0\Sorteamentos.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\obj\Debug\net6.0\Sorteamentos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\obj\Debug\net6.0\Sorteamentos.dll
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\obj\Debug\net6.0\ref\Sorteamentos.dll
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\obj\Debug\net6.0\Sorteamentos.pdb
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\bin\Debug\net6.0\Business.dll
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\bin\Debug\net6.0\Business.pdb
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\obj\Debug\net6.0\Sorteamentos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\ConsoleApp1\Sorteamentos2\obj\Debug\net6.0\Sorteamentos.csproj.CopyComplete
