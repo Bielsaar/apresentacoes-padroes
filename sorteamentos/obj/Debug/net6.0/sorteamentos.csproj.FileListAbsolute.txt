@@ -1,5 +1,0 @@
-C:\Users\Gabriel\source\repos\ConsoleApp1\sorteamentos\obj\Debug\net6.0\sorteamentos.csproj.AssemblyReference.cache
-C:\Users\Gabriel\source\repos\ConsoleApp1\sorteamentos\obj\Debug\net6.0\sorteamentos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gabriel\source\repos\ConsoleApp1\sorteamentos\obj\Debug\net6.0\sorteamentos.AssemblyInfoInputs.cache
-C:\Users\Gabriel\source\repos\ConsoleApp1\sorteamentos\obj\Debug\net6.0\sorteamentos.AssemblyInfo.cs
-C:\Users\Gabriel\source\repos\ConsoleApp1\sorteamentos\obj\Debug\net6.0\sorteamentos.csproj.CoreCompileInputs.cache
